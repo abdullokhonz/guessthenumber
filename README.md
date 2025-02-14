@@ -10,4 +10,4 @@ This is an interactive web game where you choose a minimum and maximum number, a
 - The site selects a random number within the range.
 - Guess the number as quickly as possible.
 
-### Technologies Used: HTML, CSS, JavaScript
+#### Technologies Used: HTML, CSS, JavaScript
