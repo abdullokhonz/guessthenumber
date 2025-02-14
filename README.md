@@ -1,4 +1,7 @@
-"Number Guessing Game"
+### "Number Guessing Game"
+
+---
+
 This is an interactive web game where you choose a minimum and maximum number, and the site randomly selects a number within this range. Your goal is to guess the randomly selected number. It's a simple and fun game to test your guessing skills!
 
 Key Features:
